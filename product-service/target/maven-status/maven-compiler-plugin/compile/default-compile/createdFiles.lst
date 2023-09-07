@@ -1,0 +1,10 @@
+com/smwajahat/adil/microservicesproject/ProductApplication.class
+com/smwajahat/adil/microservicesproject/model/Product.class
+com/smwajahat/adil/microservicesproject/dto/ProductRequest.class
+com/smwajahat/adil/microservicesproject/dto/ProductResponse$ProductResponseBuilder.class
+com/smwajahat/adil/microservicesproject/controller/ProductController.class
+com/smwajahat/adil/microservicesproject/repository/ProductRepository.class
+com/smwajahat/adil/microservicesproject/service/ProductService.class
+com/smwajahat/adil/microservicesproject/dto/ProductRequest$ProductRequestBuilder.class
+com/smwajahat/adil/microservicesproject/model/Product$ProductBuilder.class
+com/smwajahat/adil/microservicesproject/dto/ProductResponse.class
