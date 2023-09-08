@@ -1,4 +1,5 @@
 com/smwajahat/adil/orderservice/model/Order.class
+com/smwajahat/adil/orderservice/config/WebClientConfig.class
 com/smwajahat/adil/orderservice/controller/OrderController.class
 com/smwajahat/adil/orderservice/model/OrderLineItems.class
 com/smwajahat/adil/orderservice/service/OrderService.class

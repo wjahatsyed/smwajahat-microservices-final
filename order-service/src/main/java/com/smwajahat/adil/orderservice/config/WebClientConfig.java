@@ -1,0 +1,19 @@
+package com.smwajahat.adil.orderservice.config;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.web.reactive.function.client.WebClient;
+
+
+/**
+ * @author Syed Muhammad Wajahat
+ * Creation date: 08/09/2023
+ */
+@Configuration
+public class WebClientConfig {
+  @Bean
+  public WebClient webClient(){
+    return WebClient.builder().build();
+  }
+
+}
