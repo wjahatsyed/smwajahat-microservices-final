@@ -1,4 +1,5 @@
 /Users/swajahat/Documents/Wjahat-Micro-Services/microservices-wjahat-adil/order-service/src/main/java/com/smwajahat/adil/orderservice/config/WebClientConfig.java
+/Users/swajahat/Documents/Wjahat-Micro-Services/microservices-wjahat-adil/order-service/src/main/java/com/smwajahat/adil/orderservice/dto/InventoryResponse.java
 /Users/swajahat/Documents/Wjahat-Micro-Services/microservices-wjahat-adil/order-service/src/main/java/com/smwajahat/adil/orderservice/model/OrderLineItems.java
 /Users/swajahat/Documents/Wjahat-Micro-Services/microservices-wjahat-adil/order-service/src/main/java/com/smwajahat/adil/orderservice/dto/OrderRequest.java
 /Users/swajahat/Documents/Wjahat-Micro-Services/microservices-wjahat-adil/order-service/src/main/java/com/smwajahat/adil/orderservice/service/OrderService.java

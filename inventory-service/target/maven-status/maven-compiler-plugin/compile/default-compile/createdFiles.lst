@@ -1,5 +1,7 @@
-com/smwajahat/adil/inventoryservice/model/Inventory.class
 com/smwajahat/adil/inventoryservice/InventoryServiceApplication.class
+com/smwajahat/adil/inventoryservice/dto/InventoryResponse.class
 com/smwajahat/adil/inventoryservice/controller/InventoryController.class
+com/smwajahat/adil/inventoryservice/model/Inventory.class
+com/smwajahat/adil/inventoryservice/dto/InventoryResponse$InventoryResponseBuilder.class
 com/smwajahat/adil/inventoryservice/repository/InventoryRepository.class
 com/smwajahat/adil/inventoryservice/service/InventoryService.class

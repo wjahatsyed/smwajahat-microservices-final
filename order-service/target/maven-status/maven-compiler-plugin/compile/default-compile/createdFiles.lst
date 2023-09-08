@@ -3,7 +3,9 @@ com/smwajahat/adil/orderservice/config/WebClientConfig.class
 com/smwajahat/adil/orderservice/controller/OrderController.class
 com/smwajahat/adil/orderservice/model/OrderLineItems.class
 com/smwajahat/adil/orderservice/service/OrderService.class
+com/smwajahat/adil/orderservice/dto/InventoryResponse$InventoryResponseBuilder.class
 com/smwajahat/adil/orderservice/repository/OrderRepository.class
 com/smwajahat/adil/orderservice/dto/OrderRequest.class
 com/smwajahat/adil/orderservice/dto/OrderLineItemsDto.class
 com/smwajahat/adil/orderservice/OrderServiceApplication.class
+com/smwajahat/adil/orderservice/dto/InventoryResponse.class
